@@ -20,7 +20,7 @@ This Node.js script generates an **HMAC SHA-256 signature** with a **timestamp**
 1.  Clone the repository:
 
     ```
-    git clone https://github.com/your-username/node-signature-test.git
+    git clone https://github.com/charlespalmerbf/node-signature-test.git
     cd node-signature-test
     ```
 
